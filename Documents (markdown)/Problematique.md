@@ -75,7 +75,7 @@ Objectif :
 
 ---
 
-## Phase II.b — Modélisation de la victoire (ML explicatif et prédictif)
+## Phase II.b — Modélisation de la victoire
 
 Objectif :
 - Formaliser la relation entre plusieurs variables et l’issue d’une partie
