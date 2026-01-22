@@ -1,3 +1,5 @@
+# Travail réalisé par Denis POPESCU et Rostom SAMAR - M1 Expert IA
+
 # League of Legends - Analyse des facteurs de victoire et du draft
 ## Problème étudié
 Dans League of Legends, la victoire dépend à la fois :
